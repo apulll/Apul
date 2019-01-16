@@ -1,0 +1,13 @@
+.modal-body {
+   position: absolute;
+   width:75vw;
+   height: 84.5vh;
+   /* transform: translate(-50%, -50%) ; */
+   background: #000
+}
+
+.modal-footer__btn--cancel {
+    width: 20.4vw;
+    height: 10.7vh;
+    background: #fff
+}

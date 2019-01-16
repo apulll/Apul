@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+    width: 6.67rem;
+    margin: 0.8rem;
+    -webkit-transform: rotate(90);
+            transform: rotate(90);
+    background-image: url(./assets/images/04cc897771b846be033b54d25174c331.png);
+    font-size: 16px;
+}.modal-body {
+   position: absolute;
+   width:75vw;
+   height: 84.5vh;
+   /* transform: translate(-50%, -50%) ; */
+   background: #000;
+}
+
+.modal-footer__btn--cancel {
+    width: 20.4vw;
+    height: 10.7vh;
+    background: #fff;
+}

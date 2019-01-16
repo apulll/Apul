@@ -1,0 +1,8 @@
+.main {
+    font-size: 16px;
+    margin: 60px;
+    display: flex;
+    width: 500px;
+    transform: rotate(90);
+    background-image: url('~static/images/blockly_bg.png')
+}
